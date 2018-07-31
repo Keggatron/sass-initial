@@ -1,0 +1,13 @@
+{
+  "name": "mccarthur",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  },
+  "dependencies": {}
+}
